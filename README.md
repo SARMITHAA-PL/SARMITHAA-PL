@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarmithaa P L</h1>
 <h3 align="center">Data Science Aspirant</h3>
 
-- 🌱 I’m currently learning **3 rd year CSBS student with strong profound knowledge in data and analytics**
+- 🌱 I’m currently learning **3 rd year CSBS student with strong profound knowledge in data and analytics and pursuing honors in computational analytics**
 
 - 📫 How to reach me **sarmithaa060104@gmail.com**
 
